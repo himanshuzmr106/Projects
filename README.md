@@ -1,5 +1,5 @@
 Retail Analysis of Global Superstore.
-Created different KPI to track the performance.
+Created different KPI's to track the performance.
 Added all the visulaization to create a dashboard.
 There are multiple dashboards.
 Created a story with the helpf different dashboards.
